@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/20-12-2021-lista-prodotti/static/css/main.a495d9fa.css",
+    "main.js": "/20-12-2021-lista-prodotti/static/js/main.a28910ff.js",
+    "static/js/787.7ad41d36.chunk.js": "/20-12-2021-lista-prodotti/static/js/787.7ad41d36.chunk.js",
+    "index.html": "/20-12-2021-lista-prodotti/index.html",
+    "main.a495d9fa.css.map": "/20-12-2021-lista-prodotti/static/css/main.a495d9fa.css.map",
+    "main.a28910ff.js.map": "/20-12-2021-lista-prodotti/static/js/main.a28910ff.js.map",
+    "787.7ad41d36.chunk.js.map": "/20-12-2021-lista-prodotti/static/js/787.7ad41d36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a495d9fa.css",
+    "static/js/main.a28910ff.js"
+  ]
+}
